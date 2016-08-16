@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<manifest> 
+<project path="device/micromax/AQ5001" name="goryn07/device_micromax_AQ5001" /> 
+<project path="vendor/micromax/AQ5001" name="goryn07/vendor_micromax_AQ5001" /> 
+</manifest>
